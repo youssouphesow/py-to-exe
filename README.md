@@ -5,7 +5,7 @@
 
 # Disponible sur youtube
 
-[![Convertir un fichier .py en .exe](https://img.youtube.com/vi/OLHAjl76Dig&t/0.jpg)(https://www.youtube.com/watch?v=OLHAjl76Dig&t "Programme python qui permet de convertir un fichier python en un fichier excutable")
+[![Convertir un fichier .py en .exe](https://img.youtube.com/vi/OLHAjl76Dig/0.jpg)(https://www.youtube.com/watch?v=OLHAjl76Dig&t "Programme python qui permet de convertir un fichier python en un fichier excutable")
 
 ## Retrouvezez-moi sur les réseaux sociaux 
 <p align="left">
